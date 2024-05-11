@@ -17,15 +17,15 @@ Results: The King architecture achieved the highest accuracy, solving all proble
 Conclusion: The MoM approach is a promising strategy for solving complex problems, with the King architecture being the most successful in this demonstration. However, other architectures may be better suited for different types of problems.
 
 Setup
-git clone https://github.com/All-About-AI-YouTube/mixture_of_models.git
-cd dir
-pip install -r requirements.txt
-SET your API KEYS in .env
-Download ollama (https://ollama.com/download)
-ollama pull "modelname" (pick the models you wanna use)
-adjust ollama model list in code
-set your problem in problem.txt
-python theking2.py (The King Arch)
-python duop.py (The Duopoly Arch)
-python democracy.py (The Democracy Arch)
+  - git clone https://github.com/TheStoneMX/MoM.git
+  - cd dir
+  - pip install -r requirements.txt
+  - SET your API KEYS in .env
+  - Download ollama (https://ollama.com/download)
+  - ollama pull "modelname" (pick the models you wanna use)
+  - adjust ollama model list in code
+  - set your problem in problem.txt
+  - python theking2.py (The King Arch)
+  - python duop.py (The Duopoly Arch)
+  - python democracy.py (The Democracy Arch)
 
