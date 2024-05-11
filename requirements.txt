@@ -1,0 +1,7 @@
+anthropic
+openai
+python-dotenv
+requests
+markdown
+tqdm
+groq
